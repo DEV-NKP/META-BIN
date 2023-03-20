@@ -71,28 +71,32 @@ The project META BIN will be a clean environment project. The world produces a h
 		Email		: niloykantipaul@gmail.com
 		LinkedIn	: https://www.linkedin.com/in/niloy-kanti-paul-5543181ab/
 		Github		: https://github.com/DEV-NKP
-
-	 2. Kaushik Biswas
-		Email		: biswaskaushik.2020@gmail.com
-		LinkedIn	: https://www.linkedin.com/in/kaushik-biswas-2b6554243/
-		Github		: https://github.com/Kaushik-Biswas
-
-	 3. Dipanwita Saha
+		
+	 2. Dipanwita Saha
 		Email		: dipanwitasaha7009@gmail.com
 		LinkedIn	: https://www.linkedin.com/in/dipanwita-saha-a772aa215/
 		Github		: https://github.com/Dipanwita-Saha
 
+	 3. Kaushik Biswas
+		Email		: biswaskaushik.2020@gmail.com
+		LinkedIn	: https://www.linkedin.com/in/kaushik-biswas-2b6554243/
+		Github		: https://github.com/Kaushik-Biswas
+
 	 4. Rifat Tasnia Islam 
 		Email		: rifattasnia521@gmail.com
-		LinkedIn	: 
-		Github		: 
+		LinkedIn	: https://www.linkedin.com/in/rifat-tasnia-islam-17807b265/
+		Github		: https://github.com/RifatTasnia
 
 	 5. Samia Akter
 		Email		: samiatannur8888@gmail.com
-		LinkedIn	: 
-		Github		: 
+		LinkedIn	: https://www.linkedin.com/in/samia-tannur-54083a221/
+		Github		: https://github.com/tannursamia2 
 
-
+	 6. Most. Masnat Marufi
+		Email		: masnatmarufi21@gmail.com
+		LinkedIn	: https://www.linkedin.com/in/masnat-marufi-125286265
+		Github		: https://github.com/Masnat21
+		
 ----------------------
 | Project Highlights |
 ----------------------
@@ -128,5 +132,5 @@ The project META BIN will be a clean environment project. The world produces a h
 ![META_BIN_OVERFLOW!](README_IMAGE/META_BIN_OVERFLOW.jpg)
 
 
-********************************************ⒸAll Rights Reserved By "TEAM_HYDRA"********************************************
+********************************************ⒸAll Rights Reserved By "TEAM_GREEN_PACK"********************************************
 
